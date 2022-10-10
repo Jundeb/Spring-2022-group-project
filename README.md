@@ -1,2 +1,3 @@
-# group19
-<img src= "documents/er_kaavio.png">
+#Spring 2022 school group project 
+##Project name: BankAutomat
+
