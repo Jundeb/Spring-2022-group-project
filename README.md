@@ -8,7 +8,7 @@ User flash their debit/credit card to a card reader which then demands user to i
 
 Demo video (in Finnish text, no sound): https://www.youtube.com/watch?v=wrGnpeAZ7e4
 
-### Techologies and tools:
+### Technologies and tools:
 
 ## Backend:
 ### Todo
