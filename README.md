@@ -6,7 +6,7 @@ Projects idea was to create a mockup of Bankautomat (ATM). User could withdraw/d
 ### How it works:
 User flash their debit/credit card to a card reader which then demands user to input correct pincode. If user has only debit account, a main window is shown. If user has both debit and credit account, a screen which asks user to choose desired account is shown.
 
-Demo video (in Finnish text, no sound): https://www.youtube.com/watch?v=wrGnpeAZ7e4
+Demo video (in Finnish): https://www.youtube.com/watch?v=wrGnpeAZ7e4
 
 ### Technologies and tools:
 
