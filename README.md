@@ -19,7 +19,7 @@ TODO
 ### Database:
 We used a relational database and MySQL (an open-source relational database management system) for managing it.
 
-Picture of ER-diagram:
+Picture of database ER-diagram:
 ![](images/ER-kaavio.png)
 
 
