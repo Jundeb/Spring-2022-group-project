@@ -20,7 +20,7 @@ TODO
 We used a relational database and MySQL (an open-source relational database management system) for managing it.
 
 Picture of ER-diagram:
-![](Images/ErKaavio.png)
+![](images/BankSimul - ER -kaavio (1).png)
 
 
 ### Heroku:
