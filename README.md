@@ -24,7 +24,12 @@ Picture of database ER-diagram (in Finnish):
 
 
 ### Heroku:
-Todo
+We used Heroku for hosting projects backend so all of us could use the same database.
+
+### Card reader
+Only physical device (excluding copmuter) we used was Olimex- card reader (Olimex MOD-RFID125 USB).
+![](images/Olimex.png)
+
 
 ### Architecture and structure
-Todo
+
