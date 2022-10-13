@@ -32,4 +32,4 @@ Only physical device we used (excluding computer) was Olimex- card reader (Olime
 
 
 ### Architecture and structure
-
+TODO
